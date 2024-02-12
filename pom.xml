@@ -77,6 +77,11 @@
 
     <!-- global dependencies! -->
   <dependencies>
+    <dependency>
+        <groupId>edu.hm.teamLoewen</groupId>
+        <artifactId>PotFieldPrediction</artifactId>
+        <version>1.0</version>
+    </dependency>
       <dependency>
           <groupId>org.junit.jupiter</groupId>
           <artifactId>junit-jupiter-engine</artifactId>
